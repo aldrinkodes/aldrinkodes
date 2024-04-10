@@ -1,7 +1,7 @@
 # 💫 About Me:
 HI ,there <br>Im Aldrin James 
 
-# 💫Portfolio
+# Portfolio
 https://aldrinkodes.github.io/MyPortfolio/#profile
 
 
