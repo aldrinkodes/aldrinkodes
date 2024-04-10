@@ -1,6 +1,9 @@
 # 💫 About Me:
 HI ,there <br>Im Aldrin James 
 
+# 💫Portfolio
+https://aldrinkodes.github.io/MyPortfolio/#profile
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_______aldrin________) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Aldrin James) 
